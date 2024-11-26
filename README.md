@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Antunes</h1>
-<h3 align="center">I'm a Software Engineering Studant on Universidade de Brasília - UnB</h3>
+<h3 align="center">I'm a Software Engineering Student on Universidade de Brasília - UnB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasgsantunes&label=Profile%20views&color=0e75b6&style=flat" alt="lucasgsantunes" /> </p>
 
