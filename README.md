@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasgsantunes" alt="lucasgsantunes" /></a> </p>
 
-- 🔭 I’m currently working on [Egalitariam](https://www.linkedin.com/company/egalitarian/posts/?feedView=all) and [PUMA](https://pumapbl.com/)
+- 🔭 I’m currently working on [Egalitarian](https://www.linkedin.com/company/egalitarian/posts/?feedView=all) and [PUMA](https://pumapbl.com/)
 
 - 🌱 I’m currently learning **vue.js, express.js and project managment**
 
