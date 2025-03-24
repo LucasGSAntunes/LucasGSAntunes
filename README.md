@@ -7,19 +7,17 @@
 
 - 🔭 I’m currently working on [Egalitarian](https://www.linkedin.com/company/egalitarian/posts/?feedView=all) and [PUMA](https://pumapbl.com/)
 
-- 🌱 I’m currently learning **vue.js, express.js and project managment**
+- 🌱 I’m currently learning **vue.js, express.js and project management**
 
 - 🔭 I’m currently working on [MadDev inc.](https://github.com/MadDevInc)
-
-- 🔭 I’m currently working on **Zero Um Educação**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LucasGSAntunes?tab=repositories](https://github.com/LucasGSAntunes?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/lucas-antunes-76143621b/](https://www.linkedin.com/in/lucas-antunes-76143621b/)
 
-- 💬 Ask me about **c, c#, c++, python, data structure, projects lifecycle, team managment**
+- 💬 Ask me about **c, c#, c++, python, data structure, projects lifecycle, team management, Requirements Engineering**
 
-- 📫 How to reach me **lucasgantunes@gmail.com**
+- 📫 How to reach me **lgabrielantunes@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MH-JoFfcn6JAxlY8GhcusQTlbDwQ3RO_/view?usp=sharing](https://drive.google.com/file/d/1MH-JoFfcn6JAxlY8GhcusQTlbDwQ3RO_/view?usp=sharing)
 
