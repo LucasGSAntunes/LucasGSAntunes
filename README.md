@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/lucas-antunes-76143621b/](https://www.linkedin.com/in/lucas-antunes-76143621b/)
 
-- 💬 Ask me about **c, c#, c++, python, data structure, projects lifecycle, team management, Requirements Engineering**
+- 💬 Ask me about **c, c#, c++, python, data structure, projects lifecycle, team management, requirements engineering**
 
 - 📫 How to reach me **lgabrielantunes@gmail.com**
 
